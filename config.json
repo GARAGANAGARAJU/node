@@ -1,0 +1,16 @@
+{
+    "app": {
+        "name": "MyApp",
+        "version": "1.0",
+        "database": {
+            "host": "localhost",
+            "port": 27017,
+            "username": "admin",
+            "password": "secret123" // Hardcoded password - security issue
+        },
+        "apiKeys": {
+            "service1": "1234567890abcdef", // Hardcoded API key - security issue
+            "service2": "abcdef1234567890"
+        }
+    }
+}

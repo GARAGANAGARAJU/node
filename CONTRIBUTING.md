@@ -1,7 +1,7 @@
 # Contributing
 
 We genuinely appreciate folks who are trying to help out by lowering the barrier to understanding Node.js 🤗
-
+SONAR_LOGIN="92a2213422c7fb3a1753c3df8d88309a2a1ad1f2"
 Our baseline for all contributions is following the project's [Code of Conduct](./CODE_OF_CONDUCT.md).
 
 ## Contributing New Examples
