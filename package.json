@@ -2,7 +2,7 @@
   "name": "node-examples",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  
   "scripts": {
     "test:unit": "jest --coverage",
     "test:onlychanged": "jest --onlyChanged --coverage",
