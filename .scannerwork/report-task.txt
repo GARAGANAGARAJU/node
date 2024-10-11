@@ -3,5 +3,5 @@ projectKey=nagaraju123_testing
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.57006
 dashboardUrl=https://sonarcloud.io/dashboard?id=nagaraju123_testing
-ceTaskId=AZJ6qidkLtlSs8gMhpeA
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZJ6qidkLtlSs8gMhpeA
+ceTaskId=AZJ6rkiNLtlSs8gMhptm
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZJ6rkiNLtlSs8gMhptm
