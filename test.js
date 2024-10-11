@@ -1,12 +1,11 @@
 // test.js
-const config = {
-    username: "user",
-    password: "password123" // Hardcoded password - should be flagged
-};
-
-// This function intentionally accesses an undefined variable
-function triggerError() {
-    console.log(undeclaredVariable); // This will cause a ReferenceError
+function add(a, b) {
+    return a + b;
 }
 
-triggerError();
+module.exports = add;
+
+// Example test case
+if (require.main === module) {
+    console.log(add(2, 3)); // Expected output: 5
+}
